@@ -1,0 +1,9 @@
+belajar apa saja di seri php?
+
+- client side vs server-side scripting
+- static vs dinamic website
+- persiapan lingkungan pengembangan
+- sintaks php
+- array
+- request method
+- studi kasus website sederhana
